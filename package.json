@@ -8,7 +8,7 @@
     "types": "index.d.ts",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wonday/react-native-orientation-locker.git"
+        "url": "git+https://github.com/NikeSupreme/react-native-orientation-locker.git"
     },
     "keywords": [
         "orientation",
@@ -19,12 +19,12 @@
         "screen"
     ],
     "author": {
-        "name": "Wonday",
-        "url": "https://github.com/wonday"
+        "name": "NikeSupreme",
+        "url": "https://github.com/NikeSupreme"
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/wonday/react-native-orientation-locker/issues"
+        "url": "https://github.com/NikeSupreme/react-native-orientation-locker/issues"
     },
     "dependencies": {
     },
